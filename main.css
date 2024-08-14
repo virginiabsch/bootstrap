@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 15px;
+} 
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    margin-bottom:15px;
+}
+
+.col {
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 380px;
+    border-radius: 3px;
+    background-color: #84e398;
+    border-radius: 5px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+}
